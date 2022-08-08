@@ -12,6 +12,6 @@ If you try emailing this email adress, it won't work because I do not have the e
 But the contact email is contact@ashertornado.com
 
 ## More info
-For more info go to ashertornado.com (http://ashertornado.com)
+For more info go to [ashertornado.com] (http://ashertornado.com)
 
 Sorry this website isn't working, I am working on getting it up and running.
