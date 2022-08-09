@@ -14,4 +14,4 @@ But the contact email is contact@ashertornado.com
 ## More info
 For more info go to [ashertornado.com](https://ashertornado.com)
 
-Sorry this website isn't working, I am working on getting it up and running.
+Sorry the website isn't working, I am working on getting it up and running.
