@@ -1,5 +1,5 @@
 # Welcome
-Welcome to AsherTornado Studio's official GitHub organization profile! You will be able to find all of our Open Source projects here.
+Welcome to GG Studio's official GitHub organization profile! You will be able to find all of our Open Source projects here.
 
 ## Members
 The only members of the organization is Me (Mr Farmer) so far.
