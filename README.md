@@ -6,6 +6,11 @@ The only members of the organization is Me (Mr Farmer) so far.
 
 If you would like to become a memeber please contact me at contact@goongroup.com
 
+## Socials
+[Website](https://goongropstudio.com)
+
+[GitHub](https://github.com/GoonGroupStudio/)
+
 ## Contact
 If you try emailing this email adress, it won't work because I do not have the email server up and running yet.
 
