@@ -8,6 +8,7 @@ If you would like to become a memeber please contact me at contact@goongroupstud
 
 ## Socials
 [Website](https://goongroupstudio.com/)
+
 [GitHub](https://github.com/GoonGroupStudio/)
 
 ## Contact
