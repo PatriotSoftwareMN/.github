@@ -17,6 +17,6 @@ If you try emailing this email adress, it won't work because I do not have the e
 But the contact email is contact@goongroupstudioo.com
 
 ## More info
-For more info go to [Goon Group Studio Website](https://goongroupstudio.com)
+For more info go to [goongroupstudio.com](https://goongroupstudio.com)
 
 Sorry the website isn't working, I am working on getting it up and running.
